@@ -13,7 +13,7 @@ Customer data with 7k+ rows.
 
 # Churn Dashboard 
 
-## *Key Metrics and Components of the Dashboard*
+## *Key Metrics and findings of the Dashboard*
 
 1. Customers at Risk:
      - 1869 customers are identified as being at risk of churning. This represent the segment of the customer base that is likely to cancel services, allowing targeted retention strategies.
@@ -51,3 +51,14 @@ Customer data with 7k+ rows.
 4. Senior Citizens: Given that 25% of churned customers are senior citizens, focusing on improving service offerings tailored to this demographic (e.g., easir onboarding, simplified billing and customer services) could help reduce churn.
 5. Cross-Sell and Bundling Opportunities: The presence of multiple service types among churned customers (phone,streaming,security) indicates potential for offering bundled services or loyalty programs that reward customers for subscribing to multiple services, which could improve retentions.
 6. Revenue Impact: The dashboard highlight that churn could result in significant financial losses both monthly and annually. Retention strategies targeting customers at risk can mitigate this impact, leading to higher customer lifetime value and reduced churn
+
+
+# Customer Churn Analysis
+
+## *Key Metrics and findings of the Dashboard*:
+
+1. High Churn Rate: The overall churn rate is 26.54%, indicating a significant number of customers are discontinuing their services.
+2. Contract Type Impacts Churn: Month-to-Month customers have the highest churn rate (42.71%), while two-year contract customers have the lowest (1.27%).
+3. Internet Service Type Influences Churn: Fiber optic customers have a higher churn rate than DSL.
+4. Payment Method and Churn: There is no clear correlation between payment method and churn rate.
+5. Tenure and Churn: Longer tenure customers have a lower churn rate, sugeesting customer loyalty incereases with time.
