@@ -9,7 +9,9 @@ Leveraged Power BI to analyze customer data and identify customer demographics a
 Customer data with 7k+ rows.
 
 ## Technology Used
-**Power BI** : For Building visualization and report, **Dax** Data analysis Expression for calculating metrics, **Power Query**  for Data transformation.
+**Power BI** : For Building visualization and report,
+**Dax** Data analysis Expression for calculating metrics, 
+**Power Query**  for Data transformation.
 
 # Churn Dashboard 
 
