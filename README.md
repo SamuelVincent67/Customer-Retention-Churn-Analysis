@@ -59,6 +59,14 @@ Customer data with 7k+ rows.
 
 1. High Churn Rate: The overall churn rate is 26.54%, indicating a significant number of customers are discontinuing their services.
 2. Contract Type Impacts Churn: Month-to-Month customers have the highest churn rate (42.71%), while two-year contract customers have the lowest (1.27%).
-3. Internet Service Type Influences Churn: Fiber optic customers have a higher churn rate than DSL.
+3. Internet Service Type Influences Churn: Fiber optic customers have a higher churn rate than DSL. 41% of fibre optics user is churning this indicates issues in fibre optics internet service type.
 4. Payment Method and Churn: There is no clear correlation between payment method and churn rate.
 5. Tenure and Churn: Longer tenure customers have a lower churn rate, sugeesting customer loyalty incereases with time.
+
+## *Key Insights and Recommendation*:
+
+1. Prioritize Contract Retention: Implement strategies to encourage to sign longer-term contracts, such as offering discounts or bundled services.
+2. Enhance Customer Experience for Fibre Optics Customers: Investigate reasons for higher churn among fibre optics customers and implement improvements to their service experience.
+3. Focus on Customer Satisfaction: Invest in customer satisfaction initiatives to build loyality and reduce churn.
+4. Leverage Data Analytics: Utilize data analytics to idrntify at-risk custokers and proactively address their needs.
+5. Optimize Pricing : Review pricing strategies and consider bundling services to increase customer value and retention.
