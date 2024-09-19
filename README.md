@@ -3,7 +3,8 @@ Leveraged Power BI to analyze customer data and identify customer demographics a
 
 ![Screenshot 2024-09-16 163800](https://github.com/user-attachments/assets/cfd90b4b-95dd-40b9-8904-e15f6d7f5c00)
 ![Screenshot 2024-09-16 163354](https://github.com/user-attachments/assets/69d94be8-1643-4a60-a50f-c8dd5b333e20)
-![Screenshot 2024-09-16 163410](https://github.com/user-attachments/assets/90806116-d7e3-401c-baeb-3a52840610e0)
+![Screenshot (39)](https://github.com/user-attachments/assets/fdaecb58-c05d-4dd9-8f21-195f1c6b3372)
+
 
 ## Data Used
 Customer data with 7k+ rows.
